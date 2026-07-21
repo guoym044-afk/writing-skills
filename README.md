@@ -14,6 +14,15 @@ writing-skills/
         │   │   └── openai.yaml
         │   └── references/
         │       └── imrad-logic.md
+        ├── write-research-introduction/
+        │   ├── SKILL.md
+        │   ├── agents/
+        │   │   └── openai.yaml
+        │   └── references/
+        │       ├── framework.md
+        │       ├── language-cohesion.md
+        │       ├── quality-checklist.md
+        │       └── source-notes.md
         └── write-methods-results/
             ├── SKILL.md
             ├── agents/
@@ -30,6 +39,7 @@ writing-skills/
 | 类别 | Skill | 功能 |
 |---|---|---|
 | 学术写作 | `map-imrad-paper-structure` | 规划、诊断和重构科研论文的 IMRaD/AIMRaD 全文脉络，检查研究缺口、目标、方法、结果、讨论与贡献是否对齐。 |
+| 学术写作 | `write-research-introduction` | 基于专家写作材料与证据约束，规划、起草、翻译、审查并定稿论文 Introduction，完成研究背景、文献综合、研究缺口与本文目标的由宽到窄衔接。 |
 | 学术写作 | `write-methods-results` | 基于实验方案、研究设计、统计计划、图表和结果证据，起草、审查、翻译并定稿论文的 Methods 与 Results，同时检查可复现性、定量表达和 Results/Discussion 边界。 |
 
 ## 安装单个 Skill

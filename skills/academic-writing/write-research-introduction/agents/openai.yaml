@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Introduction Writer"
+  short_description: "Draft and refine evidence-grounded research introductions"
+  default_prompt: "Use $write-research-introduction to draft or refine my research paper Introduction."
