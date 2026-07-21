@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experimental Figures & Tables"
+  short_description: "Write precise figure, table, and Results prose"
+  default_prompt: "Use $write-experimental-figures-tables to analyze my experimental visual and draft publication-ready captions and Results text."

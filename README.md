@@ -30,15 +30,26 @@ writing-skills/
         │   └── references/
         │       ├── audit-rubric.md
         │       └── source-guidance.md
-        └── write-methods-results/
+        ├── write-methods-results/
+        │   ├── SKILL.md
+        │   ├── agents/
+        │   │   └── openai.yaml
+        │   └── references/
+        │       ├── final-checklist.md
+        │       ├── language-patterns.md
+        │       ├── methods-guide.md
+        │       └── results-guide.md
+        └── write-experimental-figures-tables/
             ├── SKILL.md
             ├── agents/
             │   └── openai.yaml
             └── references/
-                ├── final-checklist.md
-                ├── language-patterns.md
-                ├── methods-guide.md
-                └── results-guide.md
+                ├── captions-callouts-and-tables.md
+                ├── phrasebank.md
+                ├── quality-checklist.md
+                ├── results-writing-and-comparisons.md
+                ├── source-foundation.md
+                └── visual-selection-and-design.md
 ```
 
 ## Skill 目录
@@ -48,6 +59,7 @@ writing-skills/
 | 学术写作 | `map-imrad-paper-structure` | 规划、诊断和重构科研论文的 IMRaD/AIMRaD 全文脉络，检查研究缺口、目标、方法、结果、讨论与贡献是否对齐。 |
 | 学术写作 | `write-research-introduction` | 基于专家写作材料与证据约束，规划、起草、翻译、审查并定稿论文 Introduction，完成研究背景、文献综合、研究缺口与本文目标的由宽到窄衔接。 |
 | 学术写作 | `write-methods-results` | 基于实验方案、研究设计、统计计划、图表和结果证据，起草、审查、翻译并定稿论文的 Methods 与 Results，同时检查可复现性、定量表达和 Results/Discussion 边界。 |
+| 学术写作 | `write-experimental-figures-tables` | 基于实验图表写作专家材料，选择和审查图表，撰写图题、图注、表注、正文引用、数据比较与图表驱动的 Results，并约束统计显著性、因果关系和缺失信息的表达。 |
 | 学术写作 | `audit-academic-citations` | 基于引用与文献归因专家材料，核查引用必要性与位置、论断—来源支持关系、第一手与第二手来源归因、直接引用、概括、转述及正文—参考文献一致性。 |
 
 ## 安装单个 Skill
