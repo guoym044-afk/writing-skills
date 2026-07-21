@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术引用与归因审查"
+  short_description: "核查论文引用、论断证据支持、概括转述、引用位置与文献归因问题"
+  default_prompt: "Use $audit-academic-citations to audit my manuscript citations and source attribution, then propose evidence-grounded fixes."
