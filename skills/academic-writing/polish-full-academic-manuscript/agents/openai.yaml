@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文全文语言与结构润色"
+  short_description: "系统诊断并润色学术论文的语言、衔接、段落、论证与整体结构"
+  default_prompt: "Use $polish-full-academic-manuscript to polish my full paper's language, cohesion, paragraphs, and overall structure while preserving its scientific meaning."
