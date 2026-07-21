@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Abstract Writer"
+  short_description: "Draft and refine journal, review, and conference abstracts"
+  default_prompt: "Use $academic-abstract-writing to draft or refine a submission-ready academic abstract."
