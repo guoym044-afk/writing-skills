@@ -23,6 +23,13 @@ writing-skills/
         │       ├── language-cohesion.md
         │       ├── quality-checklist.md
         │       └── source-notes.md
+        ├── related-work-writer/
+        │   ├── SKILL.md
+        │   ├── agents/
+        │   │   └── openai.yaml
+        │   └── references/
+        │       ├── patterns-and-checklists.md
+        │       └── source-framework.md
         ├── audit-academic-citations/
         │   ├── SKILL.md
         │   ├── agents/
@@ -58,6 +65,7 @@ writing-skills/
 |---|---|---|
 | 学术写作 | `map-imrad-paper-structure` | 规划、诊断和重构科研论文的 IMRaD/AIMRaD 全文脉络，检查研究缺口、目标、方法、结果、讨论与贡献是否对齐。 |
 | 学术写作 | `write-research-introduction` | 基于专家写作材料与证据约束，规划、起草、翻译、审查并定稿论文 Introduction，完成研究背景、文献综合、研究缺口与本文目标的由宽到窄衔接。 |
+| 学术写作 | `related-work-writer` | 基于 Related Work 专家材料，对文献进行分箱、分类、比较与综合，建立证据矩阵，组织研究流派并将评述准确导向研究缺口和本文定位。 |
 | 学术写作 | `write-methods-results` | 基于实验方案、研究设计、统计计划、图表和结果证据，起草、审查、翻译并定稿论文的 Methods 与 Results，同时检查可复现性、定量表达和 Results/Discussion 边界。 |
 | 学术写作 | `write-experimental-figures-tables` | 基于实验图表写作专家材料，选择和审查图表，撰写图题、图注、表注、正文引用、数据比较与图表驱动的 Results，并约束统计显著性、因果关系和缺失信息的表达。 |
 | 学术写作 | `audit-academic-citations` | 基于引用与文献归因专家材料，核查引用必要性与位置、论断—来源支持关系、第一手与第二手来源归因、直接引用、概括、转述及正文—参考文献一致性。 |

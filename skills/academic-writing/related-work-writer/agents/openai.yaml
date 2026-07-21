@@ -1,0 +1,4 @@
+interface:
+  display_name: "Related Work Writer"
+  short_description: "Classify literature and build a defensible research gap"
+  default_prompt: "Use $related-work-writer to organize my literature, compare research streams, and draft a claim-driven Related Work section."
