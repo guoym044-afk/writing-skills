@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文 Methods 与 Results 写作"
+  short_description: "依据研究设计与结果证据，起草、审查并定稿论文方法和结果章节"
+  default_prompt: "Use $write-methods-results to draft or revise my paper Methods and Results sections."
