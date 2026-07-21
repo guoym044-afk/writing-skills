@@ -1,0 +1,4 @@
+interface:
+  display_name: "IMRaD 全文脉络规划"
+  short_description: "规划并诊断科研论文的 IMRaD 全文逻辑与章节对应关系"
+  default_prompt: "使用 $map-imrad-paper-structure 帮我敲定这篇论文的全文脉络，并检查研究问题、方法、结果和讨论是否对齐。"
